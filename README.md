@@ -4,10 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youzron&label=Profile%20views&color=0e75b6&style=flat" alt="youzron" /> </p>
 
+ <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Mvf83YY0kwKqur3jmq/giphy.gif">
 <p align="left"> <a href="https://twitter.com/youzron_" target="blank"><img src="https://img.shields.io/twitter/follow/youzron_?logo=twitter&style=for-the-badge" alt="youzron_" /></a> </p>
 
 - 🌱 I’m currently learning **C++ language**
-- 📫 How to reach me **uzairzahid@protonmail.com**
+- 📫 How to reach me **uzairzahid@protonmail.com**           
 - ⚡ Fun fact **I'm a video Editor too :P**
 
 <h3 align="left">Connect with me:</h3>
