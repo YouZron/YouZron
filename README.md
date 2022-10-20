@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="https://media.giphy.com/media/Mvf83YY0kwKqur3jmq/giphy.gif">
+<img align="center" alt="Coding" width="900" src="https://media.giphy.com/media/Mvf83YY0kwKqur3jmq/giphy.gif">
 <h1 align="center">Hi 👋, I'm Uzair Zahid</h1>
 <h3 align="center">A passionate Computer Science Student from Pakistan. Currently in 3rd Semester</h3>
 
