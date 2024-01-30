@@ -1,12 +1,12 @@
 <img align="center" alt="Coding" width="900" src="https://media.giphy.com/media/Mvf83YY0kwKqur3jmq/giphy.gif">
-<h1 align="center">Hi 👋, I'm Uzair Zahid</h1>
-<h3 align="center">A passionate Computer Science Student from Pakistan. Currently in 3rd Semester :D</h3>
+<h1 align="center">Hi 👋, I'm Uzair </h1>
+<h3 align="center">A passionate Computer Science Student from Pakistan. Currently in 5th Semester :D</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youzron&label=Profile%20views&color=0e75b6&style=flat" alt="youzron" /> </p>
 
 <p align="left"> <a href="https://twitter.com/youzron_" target="blank"><img src="https://img.shields.io/twitter/follow/youzron_?logo=twitter&style=for-the-badge" alt="youzron_" /></a> </p>
 
-- 🌱 I’m currently learning **C++ language**
+<!-- - 🌱 I’m currently learning **C++ language** -->
 - 📫 How to reach me **uzairzahid@protonmail.com**           
 - ⚡ Fun fact **I'm a video Editor too :P**
 
